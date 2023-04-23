@@ -1,0 +1,20 @@
+/* Write your CSS code here. */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  text-align: center;
+}
+.content {
+  background-color: white;
+  padding: 60px;
+  border-radius: 10px;
+}
+.feedback {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  justify-content: center;
+}
